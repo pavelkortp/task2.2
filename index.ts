@@ -1,12 +1,5 @@
-async function getIP() {
-    return (await fetch('https://api.ipify.org/?format=json')).json();
+export function func(){
+    console.log('blablabla');
 }
-async function main() {
-    const s =  await getIP();
-    console.log(s);
-    
-}
-main();
-
 
 

@@ -1,2 +1,3 @@
-"use strict";
-console.log('Hello');
+export function func() {
+    console.log('blablabla');
+}
