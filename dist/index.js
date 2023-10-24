@@ -1,3 +1,1 @@
-export function func() {
-    console.log('blablabla');
-}
+"use strict";
