@@ -37,9 +37,5 @@ function getFemale2(counter = 1) {
         }
     });
 }
-<<<<<<< HEAD
-=======
-
->>>>>>> 283616f2e57a2abe38a4d9fa661e6249b2a3ab78
 getFemale1();
 getFemale2();
