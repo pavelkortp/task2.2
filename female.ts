@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 const LINK: string = 'https://random-data-api.com/api/users/random_user';
+=======
+const LINK = 'https://random-data-api.com/api/users/random_user';
+>>>>>>> 283616f2e57a2abe38a4d9fa661e6249b2a3ab78
 
 /**
  * Gets a female user for the minimum number of requests
